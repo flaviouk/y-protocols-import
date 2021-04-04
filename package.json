@@ -15,6 +15,7 @@
     "@types/node": "^14.14.37",
     "ts-node-dev": "^1.1.6",
     "typescript": "^4.2.3",
-    "y-protocols": "^1.0.4"
+    "y-protocols": "^1.0.4",
+    "yjs": "^13.5.4"
   }
 }
